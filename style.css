@@ -68,7 +68,7 @@ main {
     width: 41rem;
     height: 28.375rem;
     border-radius: 1.5rem;
-    box-shadow: 0.8rem 0.5rem 2rem 0.2rem var(--clr-neutral-300);
+    box-shadow: 0.5rem 0.5rem 1.5rem 0.2rem var(--clr-neutral-200);
 }
 
 .content-wrapper > div,
